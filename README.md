@@ -115,4 +115,4 @@ Please use the following bibitems to cite our works whenever you use this framew
 ```
 
 ### Acknowledgement
-Some parts of the initial stages of this repo are barrowed from a Local SGD repo of Tao Lin, which is not public now.
+Some parts of the initial stages of this repository were based on a forked repo of Local SGD code from Tao Lin, which is not public now.
