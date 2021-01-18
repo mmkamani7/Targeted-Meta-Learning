@@ -113,6 +113,3 @@ Please use the following bibitems to cite our works whenever you use this framew
   year={2019}
 }
 ```
-
-### Acknowledgement
-Some parts of the initial stages of this repository were based on a forked repo of Local SGD code from Tao Lin, which is not public now.
